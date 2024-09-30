@@ -2,7 +2,7 @@
 
 ## What is it?
 
-This package is a Mathematica-based code allowing to calculate constraints/sensitivities from electron-positron colliders for (n)iDM models. The method of the calculation is described in [2305.13383](https://arxiv.org/abs/2305.13383). 
+This package is a Mathematica-based code allowing to calculate constraints/sensitivities from electron-positron colliders for (n)iDM models. The method of the calculation is described in [2405.08081](https://arxiv.org/abs/2405.08081). 
 
 
 ## How to launch
