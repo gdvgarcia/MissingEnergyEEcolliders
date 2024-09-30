@@ -2,15 +2,6 @@
 
 ## What is it?
 
-This package allows the user to generate a variety of high energy \
-events at electron-positron colliders in the context of the Standard \
-Model supplemen-
-\n ted by not-so-inelastic Dark Matter model (DM) with a dark photon \
-mediator. DM notation will refer to the lighest dark fermionic state \
-\\ chi- (\!\(\*SubscriptBox[\(\[Chi]\), \(-\)]\)), e.g. 
-\nmDM = \!\(\*SubscriptBox[\(m\), \(\[Chi]\)]\) = mass of chi-. Zp \
-(Z') will refer to the dark photon.
-
 This package is a Mathematica-based code allowing to calculate constraints/sensitivities from electron-positron colliders for (n)iDM models. The method of the calculation is described in [2305.13383](https://arxiv.org/abs/2305.13383). 
 
 
